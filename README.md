@@ -1,3 +1,6 @@
+This project was my first react app, based off of a course i'm doing, although it looks pretty weird, the intent on doing it was to understand the inner workings of basic react applications, such as useStates and components
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
